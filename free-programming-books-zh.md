@@ -164,7 +164,7 @@
 
 ### Node.js
 * [Node 入门](http://www.nodebeginner.org/index-zh-cn.html)
-* [The NodeJS 中文](https://www.gitbook.io/book/0532/nodejs)
+* [The NodeJS 中文文档](https://www.gitbook.com/book/0532/nodejs/details)（社区翻译）
 
 
 ### Perl
@@ -214,6 +214,7 @@
 ### Scala
 * [Effective Scala](http://twitter.github.io/effectivescala/index-cn.html)
 * [Scala 课堂](http://twitter.github.io/scala_school/zh_cn/index.html) (Twitter的Scala中文教程)
+* [Scala 初学者指南](https://www.gitbook.com/book/windor/beginners-guide-to-scala/details) (The Neophyte's Guide to Scala)
 
 
 ### Scheme
