@@ -3,7 +3,9 @@
 * [Angular JS](#angularjs)
 * [Node.js](#Nodejs)
 * [CSS](#css)
+* [Elixir](#elixir)
 * [Emacs](#emacs)
+* [Erlang](#erlang)
 * [Language Agnostic](#language-agnostic)
 * [Javascript](#javascript)
 * [PHP](#php)
@@ -23,8 +25,19 @@
 ### CSS
 * [Screencast] - [CSS-Tricks Screencasts](http://css-tricks.com/video-screencasts/)
 
+### Elixir
+* [Screencast] - [ElixirConf 2014](https://www.youtube.com/playlist?list=PLE7tQUdRKcyakbmyFcmznq2iNtL80mCsT)
+* [Screencast] - [ElixirConf 2015](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jBXpr1IjyUgJ7hNS1eTf7H)
+* [Screencast] - [Elixir Sips](http://elixirsips.com/) - Some free
+* [Screencast] = [Intro to Elixir](https://www.youtube.com/watch?v=lly-1UYmnFI&list=PLn76XROGFNtE9InImlu6e8isbOsM7qKtt)
+
 ### Emacs
 * [Screencast] - [Emacs Rocks!](http://emacsrocks.com/)
+
+### Erlang
+* [Screencast] - [Erlang Factory SF Bay 2015](https://www.youtube.com/playlist?list=PLWbHc_FXPo2h0sJW6X2RZDtT1ndw6KKpQ)
+* [Screencast] - [Thinking like an Erlanger](https://www.youtube.com/watch?v=6sBL1kHoMoo)
+* [Screencast] - [Functions + Messages + Concurrency = Erlang](http://www.infoq.com/presentations/joe-armstrong-erlang-qcon08)
 
 ### Javascript
 * [Screencast] - [Free Quality Javascript video tutorials and screencasts](http://screencasts.org/topics/javascript)

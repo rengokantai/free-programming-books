@@ -37,6 +37,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [Delphi / Pascal](#delphi--pascal)
 * [DTrace](#dtrace)
 * [Elasticsearch](#elasticsearch)
+* [Elixir](#elixir)
 * [Emacs](#emacs)
 * [Erlang](#erlang)
 * [F#](#f-sharp)
@@ -407,6 +408,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [Statistics Done Wrong](http://www.refsmmat.com/statistics/) - Alex Reinhart
 * [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) - Allen B. Downey
 * [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) (code written in Python) - Allen B. Downey
+* [An Introduction to Statistics](http://work.thaslwanter.at/Stats/html/) (with Python) - Thomas Haslwanter
 
 #### Mathematics For Computer Science
 
@@ -887,6 +889,12 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [Elasticsearch: The Definitive Guide](http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/index.html) ([fork it on GH](https://github.com/elasticsearch/elasticsearch-definitive-guide))
 * [Exploring Elasticsearch](http://exploringelasticsearch.com/)
 
+### Elixir
+* [30 Days of Elixir](https://github.com/seven1m/30-days-of-elixir) - Tim Morgan (HTML)
+* [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642/index.html) (HTML)
+* [Getting Started Guide](http://elixir-lang.org/getting-started/introduction.html) (HTML)
+* [Learning Elixir](http://learningelixir.joekain.com/) - Joseph Kain Blog (HTML)
+
 
 ### Emacs
 * [An Introduction to Programming in Emacs Lisp, 3rd Edition](https://www.gnu.org/software/emacs/manual/html_node/eintr/index.html)
@@ -897,8 +905,11 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 ### Erlang
 * [Concurrent Programming in ERLANG](http://www.erlang.org/download/erlang-book-part1.pdf)
 * [Erlang Handbook](https://github.com/esl/erlang-handbook/raw/master/output/ErlangHandbook.pdf) (PDF)
+* [Erlang Programming](http://en.wikibooks.org/wiki/Erlang_Programming) (HTML)
 * [Études for Erlang](http://chimera.labs.oreilly.com/books/1234000000726/index.html) - J. David Eisenberg
+* [Getting Started with Erlang User's Guide](http://www.erlang.org/doc/getting_started/users_guide.html) (HTML)
 * [Learn You Some Erlang For Great Good](http://learnyousomeerlang.com/) - Frederic Trottier-Hebert
+* [Making reliable distributed systems in the presence of software errors](http://www.erlang.org/download/armstrong_thesis_2003.pdf) - Joe Armstrong (PDF)
 * [Stuff Goes Bad: Erlang in Anger](https://s3.amazonaws.com/erlang-in-anger/text.v1.0.0.pdf) - Fred Herbert (PDF)
 
 
