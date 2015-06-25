@@ -20,6 +20,7 @@
 * [Git](#git)
 * [Haskell](#haskell)
 * [JavaScript](#javascript)
+    * [AngularJS](#angularjs)
     * [D3](#d3js)
     * [jQuery](#jquery)
     * [node.js](#nodejs)
@@ -106,7 +107,7 @@
 
 ### Android
 * [Curso de Programación Android](http://www.sgoliver.net/blog/wp-content/uploads/2011/11/Manual-Programacion-Android-SgoliverNet-v3-muestra.zip) (PDF) by Salvador Gómez Oliver
-
+*[Curso Android: Todo lo que necesitas para empezar](http://www.maestrosdelweb.com/curso-android/) (HTML) by Adrian Catalán
 
 ### C
 * [Introducción a la programación con C](http://repositori.uji.es/xmlui/bitstream/handle/10234/24306/s29.pdf)
@@ -171,6 +172,10 @@
 * [Jardín de JavaScript](http://bonsaiden.github.io/JavaScript-Garden/es)
 
 
+#### AngularJS
+* [Cómo aprender AngularJS](http://raulexposito.com/documentos/como-aprender-angularjs/)
+
+
 #### D3.js
 * [Tutorial de D3](http://gcoch.github.io/D3-tutorial/index.html)
 
@@ -210,7 +215,7 @@
 * [Symfony 1.4, la guía definitiva](http://librosweb.es/symfony_1_4/)
 * [Symfony 2.3, el libro oficial](http://librosweb.es/symfony_2_3/)
 * [PHP y Ajax](http://rua.ua.es/dspace/bitstream/10045/13176/9/04-ajaxphp.pdf)
-
+*[PHP y Programación orientada a objetos](https://styde.net/php-y-programacion-orientada-a-objetos/)
 
 ### Perl
 * [Tutoriales de Perl](http://perlenespanol.com/tutoriales/)

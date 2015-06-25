@@ -1,5 +1,7 @@
 ## Índice
+* [Android](#android)
 * [C](#c)
+* [C++](#cpp)
 * [C#](#csharp)
 * [Engenharia de software](#engenharia-de-software)
     * [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
@@ -18,6 +20,8 @@
 * [Shell Script](#shell)
 * [Vim](#vim)
 
+### Android
+* [Desenvolvimento Mobile com Android](http://www.k19.com.br/downloads/apostilas/java/k19-k41-desenvolvimento-mobile-com-android)
 
 ### C
 * [Introdução a Programação](https://github.com/edusantana/introducao-a-programacao-livro/releases) - livro adotado na UFPB.
@@ -25,9 +29,14 @@
 * [O Fantástico Mundo da Linguagem C](https://fiorix.wordpress.com/2014/04/12/livro-sobre-c-e-linux/)
 * [Projeto de Algoritmos em C](http://www.ime.usp.br/~pf/algoritmos/).
 
+### CPP
+* [Programação Orientada a Objetos em C++](http://www.filoczar.com.br/sistemas_operacionais/linux/cpppara_linux.pdf)
+
 ### CSharp
 
-* [C# e Orientação a Objetos](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/)
+* [C# e Orientação a Objetos - Caelum](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/)
+* [C# e Orientação a Objetos - K19](http://www.k19.com.br/downloads/apostilas/dotnet/k19-k31-csharp-e-orientacao-a-objetos)
+* [Desenvolvimento Web com ASP.NET MVC - K19](http://www.k19.com.br/downloads/apostilas/dotnet/k19-k32-desenvolvimento-web-com-aspnet-mvc)
 
 ### Engenharia de Software
 #### Metodologias de Desenvolvimento de Software
@@ -40,6 +49,7 @@
 * [Aprendendo Git](http://www.slideshare.net/bismarckjunior/aprendendo-git)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/)
 * [Pro Git](http://git-scm.com/book/pt-br)
+* [Git - guia prático] (http://rogerdudler.github.io/git-guide/index.pt_BR.html)
 
 
 ### Grunt
@@ -62,6 +72,7 @@
 * [Java e Orientação a Objetos](http://www.caelum.com.br/apostila-java-orientacao-objetos/)
 * [Java para Desenvolvimento Web](http://www.caelum.com.br/apostila-java-web/)
 * [Web ágil com VRaptor, Hibernate e AJAX](http://www.caelum.com.br/apostila-vraptor-hibernate/)
+* [Introdução a Ciência da Computação com Java](http://ccsl.ime.usp.br/files/books/intro-java-cc.pdf)
 
 
 ### JavaScript
