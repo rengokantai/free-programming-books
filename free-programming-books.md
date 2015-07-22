@@ -413,7 +413,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 
 #### Mathematics For Computer Science
 
-* [Mathematics for Computer Science (January 2012 Version)](https://www.seas.harvard.edu/courses/cs20/MIT6_042Notes.pdf) (PDF) - Eric Lehman
+* [Mathematics for Computer Science (May 2015 Version)](https://courses.csail.mit.edu/6.042/spring15/mcs.pdf) (PDF) - Eric Lehman, F Thomson Leighton and Albert R Meyer
 * [Discrete Structures for Computer Science: Counting, Recursion, and Probability](http://cglab.ca/~michiel/DiscreteStructures/) - Michiel Smid
 
 
@@ -480,6 +480,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [FutureLearn](https://www.futurelearn.com/)
 * [MIT OCW](http://ocw.mit.edu/OcwWeb/web/home/home/index.htm)
 * [NPTEL](http://nptel.ac.in/courses.php?disciplineId=106)
+* [Platzi](https://courses.platzi.com/)
 * [Udacity](https://www.udacity.com/)
 
 
@@ -493,7 +494,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [HTTP Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/http) (PDF, Kindle) *(Just fill the fields with any values)*
 * [HTTP2 Explained](http://daniel.haxx.se/http2/) - Daniel Stenberg
 * [The TCP/IP Guide](http://www.tcpipguide.com/free/t_toc.htm)
-* [Understanding IP Addressing: Everything you ever wanted to know](http://www.apnic.net/__data/assets/pdf_file/0020/8147/501302.pdf) (PDF)
+* [Understanding IP Addressing: Everything you ever wanted to know](http://www.di.unipi.it/~ricci/501302.pdf) (PDF)
 * [ZeroMQ Guide](http://zguide.zeromq.org/page%3Aall)
 
 
@@ -670,6 +671,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [Google Android Developer Training](https://developer.android.com/training/index.html)
 * [Styling Android](http://www.stylingandroid.com/)
 * [TechnoTalkative Android](http://www.technotalkative.com/android/)
+* [The Busy Coder's Guide to Android Development] (https://commonsware.com/Android/4-2-free) (PDF - older versions)
 * [Tutorial Point Android Tutorial](http://www.tutorialspoint.com/android/android_tutorial.pdf) (PDF)
 
 
@@ -961,6 +963,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 ### Fortran
 * [Fortran programming language - Wikibooks](http://en.wikibooks.org/wiki/Category%3AFortran_programming_language)
 * [Introduction to fortran 95 and numerical computing: a jump-start for scientists and engineers](http://people.cs.vt.edu/~asandu/Deposit/Fortran95_notes.pdf)
+* [Self Study Guide: Programming in Fortran 95](http://www.mrao.cam.ac.uk/~rachael/compphys/SelfStudyF95.pdf)
 
 
 ### FreeBSD
@@ -1303,6 +1306,7 @@ See also [TeX](#tex)
 
 
 ### MATLAB
+* [An Interactive Introduction to MATLAB](http://www.science.smith.edu/~jcardell/Courses/EGR326/Intro-to-MATLAB.pdf)
 * [An Introduction to MATLAB](http://www.maths.dundee.ac.uk/ftp/na-reports/MatlabNotes.pdf)
 * [Applications of MATLAB in Science and Engineering](http://www.intechopen.com/books/applications-of-matlab-in-science-and-engineering)
 * [Experiments with MATLAB](http://www.mathworks.com/moler/exm/index.html)
@@ -1431,7 +1435,7 @@ See also [TeX](#tex)
 * [Higher-Order Perl](http://hop.perl.plover.com/book/)
 * [Impatient Perl](http://www.perl.org/books/impatient-perl/)
 * [Learning Perl The Hard Way](http://www.greenteapress.com/perl/)
-* [Mastering Perl](http://chimera.labs.oreilly.com/books/1234000001527) - Bryan D Foy
+* [Mastering Perl](http://chimera.labs.oreilly.com/books/1234000001527) - brian d foy
 * [Modern Perl 5](http://www.onyxneon.com/books/modern_perl/index.html)
 * [Perl 5 Internals](http://www.faqs.org/docs/perl5int/)
 * [Perl & LWP](http://lwp.interglacial.com/index.html)
@@ -1519,6 +1523,8 @@ See also [TeX](#tex)
 * [PureScript By Example](http://leanpub.com/purescript/read) - Phil Freeman
 
 ### Python
+* [Python Official Documentation](https://docs.python.org/2/download.html) (PDF, HTML, TEXT) (2.x)
+* [Python Official Documentation](https://docs.python.org/3/download.html) (PDF, EPUB, HTML, TEXT) (3.x)
 * [A Beginner's Python Tutorial](http://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial)
 * [A Bit of Python and Other Things](http://jessenoller.com/good-to-great-python-reads/)
 * [A Guide to Python's Magic Methods](http://www.rafekettler.com/magicmethods.html) - Rafe Kettler
@@ -1596,6 +1602,8 @@ See also [TeX](#tex)
 
 
 #### Django
+* [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.5.x/django.pdf) (PDF) (1.5)
+* [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.7.x/django.pdf) (PDF) (1.7)
 * [Django by Example](http://www.lightbird.net/dbe/) (1.2)
 * [Django by Example for Django 1.5](http://lightbird.net/dbe2/) (1.5)
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
@@ -1640,6 +1648,7 @@ See also [TeX](#tex)
 * [R packages](http://r-pkgs.had.co.nz) - Hadley Wickham
 * [R practicals](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) (PDF)
 * [R Programming](http://en.wikibooks.org/wiki/R_Programming)
+* [R Programming for Data Science](https://leanpub.com/rprogramming) (Needs valid email)
 * [R Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/rsuccinctly) (PDF, Kindle) *(Just fill the fields with any values)*
 * [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) (PDF) - Patrick Burns
 * [The R Language](http://stat.ethz.ch/R-manual/R-patched/doc/html/)

@@ -6,6 +6,8 @@
 * [C++](#c-1)
 * [Clojure](#clojure)
 * [Databases](#databases)
+* [Git](#git)
+* [Go](#go)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
 * [iOS](#ios)
@@ -16,7 +18,9 @@
 * [OCaml](#ocaml)
 * [Oracle PL/SQL](#oracle-plsql)
 * [Python](#python)
+* [RethinkDB](#rethinkdb)
 * [Ruby](#ruby)
+* [Sails.js](#sailsjs)
 * [Scala](#scala)
 * [Swift](#swift)
 * [Web Development](#web-development)
@@ -53,12 +57,17 @@
 * [Database Systems](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/) (MIT's opencourseware)
 * [Introduction to Databases](https://class.stanford.edu/courses/Engineering/db/2014_1/about) (Stanford University)
 
+### Git
+* [Git and Gitlab Live Workshop](https://courses.platzi.com/courses/git-gitlab/)
+
+### Go
+* [Go Tutorial](http://www.tutorialspoint.com/go/index.htm)
 
 ### Haskell
 * [C9 : Functional Programming Fundamentals](http://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals) - Erik Meijer
 * [CIS 194: Introduction to Haskell](http://www.seas.upenn.edu/~cis194/) - Brent Yorgey
 * [CS240h: Functional Systems in Haskell](http://www.scs.stanford.edu/11au-cs240h/notes/) - Bryan O'Sullivan
-* [edX: Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x) - Erik Meijer
+* [edX: Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0) - Erik Meijer
 
 
 ### HTML / CSS
@@ -123,11 +132,16 @@
 * [Berkeley's Structure and Interpretation of Computer Programs](http://www-inst.eecs.berkeley.edu/~cs61a/)
 * [Google's Python Course](https://developers.google.com/edu/python/)
 * [Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) (MIT's opencourseware)
+* [Learn Python](https://pythonspot.com)
 
+### RethinkDB
+* [RethinkDB: Distributed Databases](https://courses.platzi.com/courses/rethinkdb-databases/)
 
 ### Ruby
 * [RubyMonk - Interactive Ruby tutorials](http://rubymonk.com)
 
+### Sails.Js
+* [Develop web apps in Node.js and Sails.js](https://courses.platzi.com/courses/develop-apps-sails-js/)
 
 ### Scala
 * [Functional Programming Principles in Scala](https://www.coursera.org/course/progfun)
