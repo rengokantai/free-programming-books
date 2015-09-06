@@ -4,6 +4,7 @@
 * [AngularJS](#angularjs)
 * [C](#c)
 * [C++](#c-1)
+* [C#](#c-2)
 * [Clojure](#clojure)
 * [Databases](#databases)
 * [Git](#git)
@@ -13,11 +14,13 @@
 * [iOS](#ios)
 * [Java](#java)
 * [JS](#js)
+* [Lua](#lua)
 * [Matlab](#matlab)
 * [Misc](#misc)
 * [OCaml](#ocaml)
 * [Oracle PL/SQL](#oracle-plsql)
 * [Python](#python)
+* [R](#r)
 * [RethinkDB](#rethinkdb)
 * [Ruby](#ruby)
 * [Sails.js](#sailsjs)
@@ -34,7 +37,10 @@
 ### Android
 * [Creative, Serious and Playful Science of Android Apps](https://www.coursera.org/course/androidapps101)
 * [Programming Cloud Services for Android Handheld Systems](https://www.coursera.org/course/mobilecloud)
-* [Programming Mobile Applications for Android Handheld Systems](https://www.coursera.org/course/android)
+* [Programming Mobile Applications for Android Handheld Systems pt. 1](https://www.coursera.org/course/android)
+* [Programming Mobile Applications for Android Handheld Systems pt. 2](https://www.coursera.org/course/androidpart2)
+* [Programming Mobile Services for Android Handheld Systems: Concurrency](https://www.coursera.org/course/posaconcurrency)
+* [Programming Mobile Services for Android Handheld Systems: Communication](https://www.coursera.org/course/posacommunication)
 * [Udacity Android Course Catalog](https://www.udacity.com/courses#!/android)
 
 ### AngularJS
@@ -47,6 +53,9 @@
 * [Google's C++ Course](https://developers.google.com/edu/c++/)
 * [Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (MIT's opencourseware)
 * [LearnCpp.com C++ Tutorial](http://www.learncpp.com/)
+
+### C# #
+* [Beginning Game Programming with C#](https://www.coursera.org/course/gameprogramming)
 
 
 ### Clojure
@@ -95,6 +104,10 @@
 ### JS
 * [Egghead.io](https://egghead.io/)
 
+### Lua
+* [Lua Interactive Crash Course](http://luatut.com/crash_course.html)
+* [Lua Tutorial](http://www.tutorialpoint.com/lua/)
+* [Lua org](http://www.lua.org/)
 
 ### MATLAB
 * [MIT 18.S997 Introduction to MATLAB Programming](http://ocw.mit.edu/courses/mathematics/18-s997-introduction-to-matlab-programming-fall-2011/)
@@ -116,12 +129,16 @@
 * [MIT´s Computer Language Engineering](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/lecture-notes/)
 * [MIT´s Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 * [MIT´s Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
+* [MIT Numerical Methods (2014)](http://www.iitg.ernet.in/kartha/CE601-14/CourseSchedule.htm)
+* [Principles of Reactive Programming](https://www.coursera.org/course/reactive)
 * [Stanford Cryptography I](https://www.coursera.org/course/crypto)
 * [Stanford Cryptography II](https://www.coursera.org/course/crypto2)
+* [Stanford SEE 229 - Machine Learning](https://see.stanford.edu/Course/CS229)
 
 
 ### OCaml
 * [Cornell's Data Structures and Functional Programming](http://www.cs.cornell.edu/courses/cs3110/)
+* [Introduction to Functional Programming in OCaml](https://www.france-universite-numerique-mooc.fr/courses/parisdiderot/56002/session01/about)
 
 
 ### Oracle PL/SQL
@@ -133,6 +150,10 @@
 * [Google's Python Course](https://developers.google.com/edu/python/)
 * [Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) (MIT's opencourseware)
 * [Learn Python](https://pythonspot.com)
+* [Programming for Everybody](https://www.coursera.org/course/pythonlearn)
+
+### R
+* [R Programming](https://www.coursera.org/course/rprog)
 
 ### RethinkDB
 * [RethinkDB: Distributed Databases](https://courses.platzi.com/courses/rethinkdb-databases/)
@@ -153,6 +174,6 @@
 
 
 ### Web Development
+* [Discover Flask - Full Stack Web Development with Flask](https://github.com/realpython/discover-flask)
 * [The Odin Project - Learn Web Development for Free](http://www.theodinproject.com/)
 * [Udacity Web Development Course Catalog](https://www.udacity.com/courses#!/web-development)
-* [Discover Flask - Full Stack Web Development with Flask](https://github.com/realpython/discover-flask)

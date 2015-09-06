@@ -1,4 +1,4 @@
-# List of Free Learning Resources
+# List of Free Learning Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ## Intro
 If you want to find a learning resource, you should definitely check out our site, [Free Learning Resources](http://resrc.io).
 And for those who want to learn a computer language, you should check out these books on [reSRC.io](http://resrc.io/list/10/list-of-free-programming-books/) or on [github](/free-programming-books.md).
@@ -12,7 +12,7 @@ It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution). Pl
 - Read the [TODO](/TODO.md) file(Adding new books is our #1 priority, but things like Alphabetizing are important, too.)
 - [Edit](https://github.com/vhf/free-programming-books/edit/master/free-programming-books.md) (we prefer multiple small commits rather than one large change)
 - [Send a PR](https://help.github.com/articles/using-pull-requests)
-- Be part of a project starred by over 41,000
+- Be part of a project starred by over 42,000
 
 **Again, unlike other projects, we prefer multiple small commits rather than one large change in a pull request - it's fine to have one PR, but please make sure your title reflects what you're changing**, thanks.
 
@@ -29,8 +29,7 @@ It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution). Pl
 + Bulgarian: [github](/free-programming-books-bg.md)
 + Chinese: [github](/free-programming-books-zh.md)
 + Czech: [github](/free-programming-books-cs.md)
-+ French: [github](/free-programming-books-fr.md) or [site](http://resrc.io/list/33/livres-gratuits-sur-la-programmation/).
-    The French list was based on [this](http://progdupeu.pl/forums/sujet/43/une-banque-de-liens) page.
++ French: [github](/free-programming-books-fr.md)
 + German: [github](/free-programming-books-de.md)
 + Greek: [github](/free-programming-books-gr.md)
 + Hungarian: [github](/free-programming-books-hu.md)
